@@ -3,6 +3,8 @@
   ## Graph Convolutional Neural Network as an explainable Pneumonia classifier
 
   </div>
+  
+<b> Authors: </b> Tan Ngoc Pham, Dzung Tri Bui, An Vo
 
 Pneumonia is a casual pathological condition and is categorized into many types with different etiologies. However, in order to examine and kill the illness proprly, there is an urgent need in identifying pneumonia infection and this is a highly specified work requiring a great deal of knowledge from specialized doctors. To identify the causes, to prevent pneumonia better, as well as save the human resources for hospitals, many researches did apply machine learning techniques on automatically classifying Chest X-ray images (CXR) to recognize whether the lungs are normal or pneumonia, whether the disease is viral pneumonia or bacteria pneumonia. In this work, we use Graph Convolutional Neural Networks (GCNs) as a CXR classifier and achieve the accuracy of <b> 96.75% </b> in Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification dataset.
  
