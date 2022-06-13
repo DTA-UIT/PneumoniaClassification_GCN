@@ -4,7 +4,7 @@
 
   </div>
   
-<b> Authors: </b> Tan Ngoc Pham, Dzung Tri Bui, An Vo
+<b> Authors: </b> [Tan Ngoc Pham](https://github.com/ngctnnnn), [Dzung Tri Bui](https://github.com/BTrDung), [An Vo](https://github.com/vokhanhan25)
 
 Pneumonia is a casual pathological condition and is categorized into many types with different etiologies. However, in order to examine and kill the illness proprly, there is an urgent need in identifying pneumonia infection and this is a highly specified work requiring a great deal of knowledge from specialized doctors. To identify the causes, to prevent pneumonia better, as well as save the human resources for hospitals, many researches did apply machine learning techniques on automatically classifying Chest X-ray images (CXR) to recognize whether the lungs are normal or pneumonia, whether the disease is viral pneumonia or bacteria pneumonia. In this work, we use Graph Convolutional Neural Networks (GCNs) as a CXR classifier and achieve the accuracy of <b> 96.75% </b> in Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification dataset.
  
@@ -74,7 +74,15 @@ To validate the applied method, we use ”Labeled Optical Coherence Tomography (
 
 </div>
 
-#### 6. References
+#### 6. Demo
+
+<div align='center'> 
+  
+<img width="155" alt="Screen Shot 2022-06-13 at 10 06 57" src="https://user-images.githubusercontent.com/67086934/173272851-bc2ade02-b524-459a-bf9a-b48b9e9c910b.png">
+
+</div>
+
+#### 7. References
 [1] Abien Fred Agarap. Deep learning using rectifiedinear units (relu). arXiv preprint arXiv:1803.08375, 2018.       
 
 [2] John Canny. A computational approach to edge detection. IEEE Transactions on pattern analysis and machine intelligence, (6):679–698, 1986.    
